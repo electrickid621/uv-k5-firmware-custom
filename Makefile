@@ -7,11 +7,11 @@
 ENABLE_UART                   ?= 1
 ENABLE_AIRCOPY                ?= 0
 ENABLE_FMRADIO                ?= 1
-ENABLE_NOAA                   ?= 1
+ENABLE_NOAA                   ?= 0
 ENABLE_VOICE                  ?= 1
 ENABLE_VOX                    ?= 0
 ENABLE_ALARM                  ?= 0
-ENABLE_TX1750                 ?= 0
+ENABLE_TX1750                 ?= 1
 ENABLE_PWRON_PASSWORD         ?= 0
 ENABLE_DTMF_CALLING           ?= 1
 ENABLE_FLASHLIGHT             ?= 1
